@@ -1,0 +1,2 @@
+# BFS and DFS
+This project is to demonstrate understanding of Binary Search Trees and tree traversal. This is part of [The Odin Project's Cirriculum](http://www.theodinproject.com/courses/ruby-programming/lessons/data-structures-and-algorithms?ref=lnav).
